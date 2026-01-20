@@ -137,15 +137,15 @@ Resultado: **1 clique = 1 ação**, sem leituras duplicadas.
 ```
 ### Exemplo – Circuito em Funcionamento
 
-```md
-![Circuito Funcionando](src/arduino.gif)
-```
+md
+![Circuito Funcionando](./src/arduino.gif)
+
 
 ### Exemplo – Montagem do circuito
 
-```md
+
 ![Montagem do circuito](src/arduino_breadboard.jpeg)
-```
+
 
 ### Exemplo – Serial Plotter
 
