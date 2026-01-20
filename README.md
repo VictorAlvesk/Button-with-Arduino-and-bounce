@@ -137,9 +137,9 @@ Resultado: **1 clique = 1 ação**, sem leituras duplicadas.
 ```
 ### Exemplo – Circuito em Funcionamento
 
-md
-![Circuito Funcionando](./src/arduino.gif)
-
+<p align="center">
+  <img src="./src/arduino.gif" alt="Circuito Funcionando" high=400>
+</p>
 
 ### Exemplo – Montagem do circuito
 
@@ -149,9 +149,7 @@ md
 
 ### Exemplo – Serial Plotter
 
-```md
-![Serial Plotter](src/serial_plotter.png)
-```
+![Serial Plotter](./src/serial_plotter.png)
 
 ---
 
